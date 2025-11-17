@@ -2,7 +2,7 @@
 layout: post
 title: "SPORTU: A Comprehensive Sports Understanding Benchmark for Multimodal Large Language Models"
 authors: "Haotian Xia, Zhengbang Yang, Junbo Zou, Rhys Tracy, Yuqing Wang, Chi Lu, <strong>Christopher Lai</strong>, Yanjun He, Xun Shao, Zhuoqing Xie, Yuan-fang Wang, Weining Shen, Hanjie Chen"
-venue: "ICLR 2025"
+venue: "ICLR 2025 (Poster)"
 date: 2025-09-26
 categories: research
 image: "/images/sportu-benchmark.jpg"
