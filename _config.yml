@@ -92,3 +92,8 @@ exclude:
   - _temp/index.html
   - _temp/
   - vendor/
+
+# Industry entries displayed on the homepage
+collections:
+  experience:
+    output: false
